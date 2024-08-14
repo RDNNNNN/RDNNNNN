@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
