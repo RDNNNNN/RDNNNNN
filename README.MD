@@ -5,10 +5,10 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=lc)](https://skillicons.dev)
+
 [LeetCode](https://leetcode.com/u/RDNNN/)
 
-[![My Skills](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
+
 [CodePen](https://codepen.io/RDNNNNN)
 
 [Udemy](https://www.udemy.com/user/ma-yu-deng/)
