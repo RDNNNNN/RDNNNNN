@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
-[LeetCode](https://leetcode.com/u/RDNNN/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)[LeetCode](https://leetcode.com/u/RDNNN/)
 
 [CodePen](https://codepen.io/RDNNNNN)
 
