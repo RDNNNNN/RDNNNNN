@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)[LeetCode](https://leetcode.com/u/RDNNN/)
 
-[CodePen](https://codepen.io/RDNNNNN)
+[![My Skills](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)[CodePen](https://codepen.io/RDNNNNN)
 
 [Udemy](https://www.udemy.com/user/ma-yu-deng/)
 
