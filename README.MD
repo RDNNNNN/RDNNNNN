@@ -1,9 +1,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=leetcode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lc)](https://skillicons.dev)
 [LeetCode](https://leetcode.com/u/RDNNN/)
 
 [![My Skills](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
