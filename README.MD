@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,django)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)[LeetCode](https://leetcode.com/u/RDNNN/)
 
