@@ -10,6 +10,7 @@
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) 
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 
 [LeetCode](https://leetcode.com/u/RDNNN/) / [CodePen](https://codepen.io/RDNNNNN)
 
