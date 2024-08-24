@@ -1,5 +1,7 @@
 ( [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) ) ( [![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev) ) ( [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) )
 
+- 🌱 I’m currently learning web development
+
 [LeetCode](https://leetcode.com/u/RDNNN/) / [CodePen](https://codepen.io/RDNNNNN)
 
 [freeCodeCamp](https://www.freecodecamp.org/RDNNN) / [Udemy](https://www.udemy.com/user/ma-yu-deng/)
