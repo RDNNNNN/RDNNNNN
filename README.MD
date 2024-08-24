@@ -1,9 +1,7 @@
 📚 Good morning, I am learning programming languages.
 
 
-[![JavaScript](https://img.shields.io/badge/language-JavaScript-orange)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-( [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) ) ( [![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev) ) ( [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) )
+( [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ) ( [![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev) ) ( [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) )
 
 [LeetCode](https://leetcode.com/u/RDNNN/) / [CodePen](https://codepen.io/RDNNNNN)
 
