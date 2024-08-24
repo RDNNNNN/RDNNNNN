@@ -1,7 +1,12 @@
 📚 Good morning, I am learning programming languages.
 
 
-( [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ) ( [![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev) ) ( [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) )
+( [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) )
+( [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) )
+( [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) )
+( [![My Skills](https://skillicons.dev/icons?i=py,django)](https://www.python.org/) ) 
+( [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) ) 
+( [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) )
 
 [LeetCode](https://leetcode.com/u/RDNNN/) / [CodePen](https://codepen.io/RDNNNNN)
 
