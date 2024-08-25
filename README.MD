@@ -16,7 +16,7 @@
 
 ✏️[CodePen](https://codepen.io/RDNNNNN)
 
-📒 [freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
+📒[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
 
 📖[Udemy](https://www.udemy.com/user/ma-yu-deng/)
 
