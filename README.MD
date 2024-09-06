@@ -1,4 +1,4 @@
-👾 Gamer
+👾 Gamer / 🟥 Cube / 🎶 Popping
 
 📚 Good morning, I am learning programming languages.
 
