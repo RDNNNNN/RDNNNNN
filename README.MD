@@ -1,5 +1,6 @@
-📚 Good morning, I am learning programming languages.
+👾Gamer
 
+📚 Good morning, I am learning programming languages.
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
