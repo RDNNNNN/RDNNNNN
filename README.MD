@@ -1,4 +1,4 @@
-👾Gamer
+👾 Gamer
 
 📚 Good morning, I am learning programming languages.
 
