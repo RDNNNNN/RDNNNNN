@@ -1,6 +1,6 @@
-👾 Gamer / 🟥 Cube / 🎶 Popping
+☀️Good morning, and in case I don't see you, Good afternoon🌇, good evening🌆, and good night!🌙 
 
-📚 Good morning, I am learning programming languages.
+📚 I am learning programming languages.
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
