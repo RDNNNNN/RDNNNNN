@@ -11,6 +11,7 @@
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) 
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
