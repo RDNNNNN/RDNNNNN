@@ -2,7 +2,7 @@
 
 ### 📚 I am learning programming languages.
 
-### 🔥 KEEP GOING
+### 🔥 KEEP GOING 🔥
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
