@@ -10,7 +10,7 @@
 
 ### 🔥 KEEP GOING 🔥
 
-![Project Progress](https://progress-bar.dev/60/?title=Project%20Completion)
+![GitHub followers](https://img.shields.io/github/followers/RDNNNNN?label=Followers&style=social)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
