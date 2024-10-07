@@ -6,6 +6,8 @@
 
 ![RDNNNNN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
+![RDNNNNN's GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
+
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
