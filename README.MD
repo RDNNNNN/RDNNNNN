@@ -10,7 +10,7 @@
 
 ### 🔥 KEEP GOING 🔥
 
-
+<img src="https://assets.lottiefiles.com/packages/lf20_x62chJ.json" alt="Lottie Animation">
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
