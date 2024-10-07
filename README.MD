@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+my+GitHub+page+;I+am+RDNNNNN(Ma)&center=true&width=500&height=50&color=00FF00)
+ヽ(•‿•)ノ  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page;I+am+RDNNNNN(Ma)&center=true&width=500&height=50&color=00FF00)  
+＼(＾▽＾)／
 
 ### ☀️Good morning, and in case I don't see you, Good afternoon🌇, good evening🌆, and good night!🌙 
 
