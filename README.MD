@@ -6,6 +6,10 @@
 
 ### 🔥 KEEP GOING 🔥
 
+![Lottie Animation](https://yourdomain.com/path-to-your-lottie.gif)
+
+![Project Progress](https://img.shields.io/badge/Progress-60%25-brightgreen)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
