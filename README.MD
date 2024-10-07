@@ -8,7 +8,7 @@
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
-![Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['January','February'],datasets:[{label:'Data',data:[10,20]}]}})
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page;I+am+Ma&center=true&width=500&height=50)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
