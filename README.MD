@@ -8,7 +8,7 @@
 
 ![RDNNNNN's GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
-![RDNNNNN's GitHub Contributions](https://ghchart.rshah.org/RDNNNNN)
+![訪客計數器](https://visitor-badge.glitch.me/badge?page_id=RDNNNNN.visitor-badge)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
