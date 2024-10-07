@@ -10,7 +10,7 @@
 
 ### 🔥 KEEP GOING 🔥
 
-![GitHub followers](https://img.shields.io/github/followers/RDNNNNN?label=Followers&style=social)
+![RDNNNNN's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
