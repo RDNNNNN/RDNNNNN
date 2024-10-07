@@ -6,9 +6,6 @@
 
 ### 🔥 KEEP GOING 🔥
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
-
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
@@ -34,3 +31,5 @@
 📖[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
 
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
