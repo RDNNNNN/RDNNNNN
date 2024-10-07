@@ -4,11 +4,9 @@
 
 ### 🔥 KEEP GOING 🔥
 
-![RDNNNNN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
-![RDNNNNN's GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
-
-![visitor](https://visitor-badge.glitch.me/badge?page_id=RDNNNNN.visitor-badge)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
