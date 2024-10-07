@@ -8,6 +8,8 @@
 
 ![RDNNNNN's GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
+![RDNNNNN's GitHub Contributions](https://ghchart.rshah.org/RDNNNNN)
+
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
