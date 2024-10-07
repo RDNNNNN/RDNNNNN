@@ -1,14 +1,16 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page;I+am+Ma&center=true&width=500&height=50)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
+
 ### ☀️Good morning, and in case I don't see you, Good afternoon🌇, good evening🌆, and good night!🌙 
 
 ### 📚 I am learning programming languages.
 
 ### 🔥 KEEP GOING 🔥
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page;I+am+Ma&center=true&width=500&height=50)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
