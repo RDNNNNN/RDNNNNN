@@ -7,6 +7,8 @@
 
 ### 🔥 KEEP GOING 🔥
 
+![visitor](https://visitor-badge.glitch.me/badge?page_id=RDNNNNN.visitor-badge)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
