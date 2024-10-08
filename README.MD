@@ -1,12 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page+(◕‿◕);I+am+RDNNNNN(Ma)+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&center=true&width=500&height=50&color=00FF00)  
 
+![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRDNNNNN%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
 ### ☀️Good morning, and in case I don't see you, Good afternoon🌇, good evening🌆, and good night!🌙 
 
 ### 📚 I am learning programming languages.
 
 ### 🔥 KEEP GOING 🔥
-
-![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRDNNNNN%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
