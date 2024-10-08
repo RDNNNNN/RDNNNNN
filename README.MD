@@ -7,6 +7,8 @@
 
 ### 🔥 KEEP GOING 🔥
 
+![Lottie Animation](https://yourdomain.com/path-to-your-lottie.gif)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
