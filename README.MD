@@ -25,7 +25,7 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-🌐[WorkNet(專案)](https://github.com/astrocamp/17th-WorkNet)
+🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
 
 🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
 
