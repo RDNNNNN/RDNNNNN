@@ -8,7 +8,6 @@
 
 ### 🔥 KEEP GOING 🔥
 
-
 🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
 
 🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
@@ -20,10 +19,6 @@
 📖[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
 
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
@@ -37,5 +32,9 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
