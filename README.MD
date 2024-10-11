@@ -33,8 +33,8 @@
 
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
