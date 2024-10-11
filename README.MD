@@ -8,6 +8,19 @@
 
 ### 🔥 KEEP GOING 🔥
 
+
+🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
+
+🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
+
+✏️[CodePen](https://codepen.io/RDNNNNN)
+
+📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
+
+📖[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
+
+📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
@@ -24,17 +37,5 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-
-🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
-
-🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
-
-✏️[CodePen](https://codepen.io/RDNNNNN)
-
-📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
-
-📖[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
-
-📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
