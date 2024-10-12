@@ -6,8 +6,9 @@
 
 ---
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![JavaScript](shttps://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]https://getbootstrap.com/
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![AlpineJS](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev/) 
