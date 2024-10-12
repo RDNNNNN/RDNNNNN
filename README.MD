@@ -15,8 +15,6 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-### ☀️Good morning, and in case I don't see you, Good afternoon🌇, good evening🌆, and good night!🌙 
-
 ### 📚 I am learning programming languages.
 
 ### 🔥 KEEP GOING 🔥
