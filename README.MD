@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;I+am+RDNNNNN(Ma)+(◕‿◕)&center=true&width=500&height=50&color=00FF00)    
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;I+am+RDNNNNN(Ma)+(◕‿◕);%E2%98%80%EF%B8%8FGood+morning;In+case+I+don%27t+see+you,+Good+afternoon%F0%9F%8C%87;Good+evening%F0%9F%8C%86,+and+Good+night%F0%9F%8C%99&center=true&width=1000&he
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;I+am+RDNNNNN(Ma)+(◕‿◕);Good+morning🌞;In+case+I+don%27t+see+you,+Good+afternoon🌇;Good+evening🌆,+and+Good+night!🌙&center=true&width=1000&height=50&color=00FF00)
 
 ![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRDNNNNN%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
