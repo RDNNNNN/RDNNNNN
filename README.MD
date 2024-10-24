@@ -37,6 +37,9 @@
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
 ---
+
+![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
