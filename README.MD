@@ -37,7 +37,6 @@
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
 ---
-![Langue Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact)
 
 ![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
