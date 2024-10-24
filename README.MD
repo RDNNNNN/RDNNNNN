@@ -38,9 +38,9 @@
 
 ---
 
-![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
+
+![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
