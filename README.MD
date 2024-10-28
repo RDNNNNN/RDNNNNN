@@ -20,7 +20,8 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RDNNNNN&theme=default)
+
 ### 📚 I am learning programming languages.
 
 ### 🔥 KEEP GOING 🔥
