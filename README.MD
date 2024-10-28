@@ -38,10 +38,10 @@
 
 ---
 
+![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
 
 ![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDNNNNN&theme=2077)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDNNNNN&theme=dracula)
