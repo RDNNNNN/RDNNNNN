@@ -20,8 +20,6 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
-
 ### 📚 I am learning programming languages.
 
 ### 🔥 KEEP GOING 🔥
@@ -41,6 +39,8 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
+
+![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
 ![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDNNNNN&theme=2077)
 
