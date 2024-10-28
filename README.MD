@@ -19,6 +19,7 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact)
 ### 📚 I am learning programming languages.
 
