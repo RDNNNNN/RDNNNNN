@@ -6,6 +6,7 @@
 
 ---
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
@@ -37,8 +38,6 @@
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
 ---
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
 ![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
