@@ -7,6 +7,7 @@
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
+
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
