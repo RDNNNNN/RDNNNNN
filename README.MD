@@ -6,8 +6,6 @@
 
 ---
 
-![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
-
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
@@ -21,6 +19,8 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
 ### 📚 I am learning programming languages.
 
