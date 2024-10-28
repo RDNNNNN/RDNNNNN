@@ -21,6 +21,8 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RDNNNNN&theme=default)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RDNNNNN&theme=default)
+
 
 ### 📚 I am learning programming languages.
 
