@@ -20,7 +20,7 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-![Summary-Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={RDNNNNN&}&theme={2077})
+![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDNNNNN&theme=2077)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RDNNNNN&theme=default)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RDNNNNN&theme=default)
 
