@@ -28,15 +28,19 @@
 
 🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
 
+📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
+
 🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
 
 ✏️[CodePen](https://codepen.io/RDNNNNN)
 
-📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
-
 📖[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
 
-📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
+📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
+
+
+
+
 
 ---
 
