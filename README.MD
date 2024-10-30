@@ -6,6 +6,8 @@
 
 ---
 
+![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDNNNNN&theme=2077)
+
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
@@ -37,8 +39,6 @@
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
 ---
-
-![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDNNNNN&theme=2077)
 
 ![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
