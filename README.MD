@@ -6,7 +6,8 @@
 
 ---
 
-![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDNNNNN&theme=2077)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
@@ -42,9 +43,9 @@
 
 
 
----
 
-![LeetCode](https://leetcard.jacoblin.cool/RDNNN)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
+
+
+
 
