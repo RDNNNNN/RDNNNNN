@@ -41,6 +41,8 @@
 
 ### 🔥 KEEP GOING 🔥
 
+💬Discord: rdnnnnnn
+
 🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
 
 📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
@@ -53,7 +55,7 @@
 
 📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
 
-💬Discord:rdnnnnnn
+
 
 
 
