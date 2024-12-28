@@ -35,9 +35,6 @@
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
-
-
-
 ---
 
 ### 📚 I am learning programming languages.
@@ -56,7 +53,7 @@
 
 📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
 
-
+💬Discord:rdnnnnnn
 
 
 
