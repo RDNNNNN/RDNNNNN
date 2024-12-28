@@ -1,14 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;I+am+RDNNNNN(Ma)+(◕‿◕);Good+morning🌞,+In+case+I+don%27t+see+you;Good+afternoon🌇,+Good+evening🌆,+and+good+night!🌙&center=true&width=1000&height=50&color=00FF00)
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRDNNNNN%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="visitor count" />
-</div>
-
----
-
-<div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=RDNNNNN&show_icons=true&theme=radical
 />
+</div>
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRDNNNNN%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="visitor count" />
 </div>
 
 <div align="center">
