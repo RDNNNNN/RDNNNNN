@@ -12,7 +12,7 @@
 </div>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RDNNNNN&theme=gruvbox)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RDNNNNN&theme=default)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RDNNNNN&theme=default)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
