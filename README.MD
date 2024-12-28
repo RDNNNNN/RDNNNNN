@@ -41,19 +41,19 @@
 
 ### 🔥 KEEP GOING 🔥
 
-💬Discord: rdnnnnnn
+💬 Discord: rdnnnnnn
 
-🌐[WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
+🌐 [WorkNet(求職平台專案)](https://github.com/astrocamp/17th-WorkNet)
 
-📝[2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
+📝 [2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
-🌟[LeetCode](https://leetcode.com/u/RDNNN/) 
+🌟 [LeetCode](https://leetcode.com/u/RDNNN/) 
 
-✏️[CodePen](https://codepen.io/RDNNNNN)
+✏️ [CodePen](https://codepen.io/RDNNNNN)
 
-📖[freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
+📖 [freeCodeCamp](https://www.freecodecamp.org/RDNNN) 
 
-📒[Udemy](https://www.udemy.com/user/ma-yu-deng/)
+📒 [Udemy](https://www.udemy.com/user/ma-yu-deng/)
 
 
 
