@@ -33,8 +33,7 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
 
 
