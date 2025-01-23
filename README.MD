@@ -25,6 +25,7 @@
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Cursor](https://skillicons.dev/icons?i=cursor)](https://www.cursor.com/)
 
 ### 💼 Workplace Tech Stack
 
