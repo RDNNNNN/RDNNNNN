@@ -31,8 +31,8 @@
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) 
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
 ---
