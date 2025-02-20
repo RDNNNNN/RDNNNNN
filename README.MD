@@ -6,8 +6,7 @@
 
 ---
 
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact&theme=chartreuse-dark
-/>
+ [![Github-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact&theme=chartreuse-dark)
 
 ### 🗄️ Technical Skills
 
