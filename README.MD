@@ -8,7 +8,6 @@
 
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact&theme=chartreuse-dark
 />
-</div>
 
 ### 🗄️ Technical Skills
 
