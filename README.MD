@@ -10,6 +10,8 @@
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact&theme=chartreuse-dark
 </div>
 
+---
+
 ### 🗄️ Technical Skills
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
