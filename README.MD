@@ -6,9 +6,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RDNNNNN&theme=github-dark&hide_border=true&exclude_days=Sun%2CMon" alt="GitHub Streak" 
-/></a>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=compact&theme=chartreuse-dark
 />
 </div>
