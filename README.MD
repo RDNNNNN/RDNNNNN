@@ -17,16 +17,16 @@
 [![HTMX](https://skillicons.dev/icons?i=htmx)](https://htmx.org/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 
 ### 💼 Workplace Tech Stack
 
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) 
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ---
 
