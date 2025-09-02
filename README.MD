@@ -42,6 +42,8 @@
 
 📝 [2024 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/7118)
 
+📑 [2025 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/8157)
+
 
 
 
