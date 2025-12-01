@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;I+am+RDNNNNN(Ma)+(◕‿◕);Good+morning+🌞,+In+case+I+don%27t+see+you;Good+afternoon+🌇,+Good+evening+🌆,+and+good+night!+🌙&center=true&width=1000&height=50&color=00FF00)
 
+<div align="center">
+
 ### 🗄️ Technical Skills
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
@@ -40,7 +42,7 @@
 
 📑 [2025 iThome](https://ithelp.ithome.com.tw/users/20168290/ironman/8157)
 
-
+</div align="center">
 
 
 
