@@ -2,7 +2,7 @@
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api/top-langs?username=rdnnnnnn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="rdnnnnnn" />
+https://github-readme-stats.vercel.app/api/top-langs?username=RDNNNNN&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="RDNNNNN" />
 
 ### 🗄️ Technical Skills
 
