@@ -20,9 +20,9 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Cursor](https://skillicons.dev/icons?i=cursor)](https://cursor.com/zh-Hant)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Cursor](https://skillicons.dev/icons?i=cursor)](https://cursor.com/zh-Hant)
 
 ### 📚 I am learning programming languages.
 
