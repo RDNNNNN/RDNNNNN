@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RDNNNNN&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="RDNNNNN" />
-
 ### 🗄️ Technical Skills
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
