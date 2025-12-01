@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Top Langs Donut](https://github-readme-stats-rdnnnnn.vercel.app/api/top-langs/?username=RDNNNNN&layout=donut)
+![Top Langs Donut](https://github-readme-stats-academic.vercel.app/api/top-langs/?username=RDNNNNN&layout=donut)
 
 ### 🗄️ Technical Skills
 
