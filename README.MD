@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Top Langs Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&layout=donut)
+
 ### 🗄️ Technical Skills
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
