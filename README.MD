@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;I+am+RDNNNNN(Ma)+(◕‿◕);Good+morning+🌞,+In+case+I+don%27t+see+you;Good+afternoon+🌇,+Good+evening+🌆,+and+good+night!+🌙&center=true&width=1000&height=50&color=00FF00)
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDNNNNN&stats_format=bytes)
 
 ### 🗄️ Technical Skills
 
